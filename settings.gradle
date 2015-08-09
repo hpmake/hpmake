@@ -1,0 +1,3 @@
+rootProject.name = 'hpmake'
+include 'rest-api'
+
